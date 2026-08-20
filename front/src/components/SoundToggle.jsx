@@ -110,7 +110,7 @@ function SoundToggle({ channels, todayCount, viewerCount, isManualScene, onUseTi
         )}
         <div className="github-channel">
           <a
-            href="https://github.com/JBL28/Let-it-drift"
+            href="https://github.com/JBL28/Let_it_drift"
             target="_blank"
             rel="noopener noreferrer"
             className="github-link"
